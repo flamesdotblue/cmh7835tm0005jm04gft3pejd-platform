@@ -33,7 +33,7 @@ const Hero = () => {
           transition={{ duration: 0.9, ease: 'easeOut', delay: 0.1 }}
           className="mt-6 max-w-2xl text-white/70"
         >
-          A monochrome salon experience with subtle motion and a playful 3D-inspired haircut scene. Minimal, modern, and meticulously crafted.
+          A premium monochrome salon experience with subtle parallax and a bespoke 3D scene: watch the walk-in, the sit, and the sharp trim in real time.
         </motion.p>
         <motion.div
           initial={{ opacity: 0, y: 20 }}
